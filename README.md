@@ -1,2 +1,2 @@
 # ICPC
-Internatioal College Progamming Contest code problems solutions
+Internatioal College Progamming Contest problem solutions
