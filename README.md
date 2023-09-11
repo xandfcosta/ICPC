@@ -2,7 +2,7 @@
 Possíveis soluções para problemas do ICPC. Repositório criado para treinamento apenas
 
 
-## 2023 - Sub-Rregional Brasil do ICPC
+## 2023 - Sub-Rregional Brasil
 - [Problem A](2023/problema_a.cpp) - Altura Mínima
 - Problem B (to-do) - Baralho Embaralhado
 - Problem C (to-do) - Caminhada na Montanha
